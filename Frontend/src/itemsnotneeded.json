@@ -1,0 +1,182 @@
+[
+    {
+        "id": "001",
+        "image": "FinalProducts/1.png",
+        "image2": "FinalProducts/2.png",
+        "image3": "FinalProducts/3.png",
+        "image4": "FinalProducts/4.png",
+        "company": "If a dog chews shoes whose shoes does he choose?",
+        "item_name": "White T-Shirt for Dog Lovers",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "002",
+        "image": "FinalProducts/2.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "Body builder Shark on T-shirt",
+        "item_name": "White T-Shirt for Gym Lovers",
+        "original_price": 1199,
+        "current_price": 699,
+        "rating": {
+            "stars": 4.7,
+            "count": 1200
+        }
+    },
+    {
+        "id": "003",
+        "image": "FinalProducts/3.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "Skulls in White T-shirt",
+        "item_name": "Born To Stand Out",
+        "original_price": 1499,
+        "current_price": 899,
+        "rating": {
+            "stars": 4.8,
+            "count": 1500
+        }
+    },
+    {
+        "id": "004",
+        "image": "FinalProducts/4.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "Dog drinking wine",
+        "item_name": "Classic T-shirt for Adults",
+        "original_price": 1499,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.7,
+            "count": 1100
+        }
+    },
+    {
+        "id": "005",
+        "image": "FinalProducts/5.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "Never Give Up Motivational T-Shirt",
+        "item_name": "Motivational T-Shirt",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "006",
+        "image": "FinalProducts/6.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "Stylish T-Shirt with Red Rose",
+        "item_name": "Classic stylish T-Shirt",
+        "original_price": 1499,
+        "current_price": 899,
+        "rating": {
+            "stars": 4.5,
+            "count": 1200
+        }
+    },
+    {
+        "id": "007",
+        "image": "FinalProducts/7.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "T-Shirt for goa vacation",
+        "item_name": "Simple Goa style and vibe",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.7,
+            "count": 1500
+        }
+    },
+    {
+        "id": "008",
+        "image": "FinalProducts/8.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "T-Shirts for coders no connection",
+        "item_name": "No Connection",
+        "original_price": 1199,
+        "current_price": 599,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "009",
+        "image": "FinalProducts/10.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "If a dog chews shoes whose shoes does he choose?",
+        "item_name": "I'm cool White T-Shirt",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "0010",
+        "image": "FinalProducts/9.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "If a dog chews shoes whose shoes does he choose?",
+        "item_name": "I'm cool Black T-Shirt",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "0011",
+        "image": "FinalProducts/9.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "If a dog chews shoes whose shoes does he choose?",
+        "item_name": "I'm cool Black T-Shirt",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "0012",
+        "image": "FinalProducts/10.png",
+        "image2": "FinalProducts/7.png",
+        "image3": "FinalProducts/8.png",
+        "image4": "FinalProducts/9.png",
+        "company": "If a dog chews shoes whose shoes does he choose?",
+        "item_name": "White T-Shirt for Dog Lovers",
+        "original_price": 1199,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    }
+]

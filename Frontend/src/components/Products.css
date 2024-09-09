@@ -1,0 +1,22 @@
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin: auto;
+    gap: 20px;
+}
+
+.card {
+    place-self: center;
+}
+
+@media screen and (max-width: 1040px) {
+    .products {
+        grid-template-columns: repeat(2, auto);
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .products {
+        grid-template-columns: repeat(1, auto);
+    }
+}

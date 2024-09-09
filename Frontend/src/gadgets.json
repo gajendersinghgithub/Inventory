@@ -1,0 +1,182 @@
+[
+    {
+        "id": "G001",
+        "image": "Gadgets/1.jpg",
+        "image2": "Gadgets/1_2.png",
+        "image3": "Gadgets/1_3.png",
+        "image4": "Gadgets/1_4.png",
+        "name": "Smartphone Pro Max",
+        "brand": "TechBrand",
+        "original_price": 999,
+        "current_price": 799,
+        "rating": {
+            "stars": 4.8,
+            "count": 2500
+        }
+    },
+    {
+        "id": "G002",
+        "image": "Gadgets/2.jpg",
+        "image2": "Gadgets/2_2.png",
+        "image3": "Gadgets/2_3.png",
+        "image4": "Gadgets/2_4.png",
+        "name": "Noise Cancelling Headphones",
+        "brand": "SoundMaster",
+        "original_price": 299,
+        "current_price": 199,
+        "rating": {
+            "stars": 4.6,
+            "count": 1800
+        }
+    },
+    {
+        "id": "G003",
+        "image": "Gadgets/3.jpg",
+        "image2": "Gadgets/3_2.png",
+        "image3": "Gadgets/3_3.png",
+        "image4": "Gadgets/3_4.png",
+        "name": "Smart Watch Ultra",
+        "brand": "FitTech",
+        "original_price": 249,
+        "current_price": 189,
+        "rating": {
+            "stars": 4.7,
+            "count": 1200
+        }
+    },
+    {
+        "id": "G004",
+        "image": "Gadgets/4.jpg",
+        "image2": "Gadgets/4_2.png",
+        "image3": "Gadgets/4_3.png",
+        "image4": "Gadgets/4_4.png",
+        "name": "4K Ultra HD TV",
+        "brand": "VisionPlus",
+        "original_price": 799,
+        "current_price": 599,
+        "rating": {
+            "stars": 4.9,
+            "count": 1600
+        }
+    },
+    {
+        "id": "G005",
+        "image": "Gadgets/5.jpg",
+        "image2": "Gadgets/5_2.png",
+        "image3": "Gadgets/5_3.png",
+        "image4": "Gadgets/5_4.png",
+        "name": "Bluetooth Speaker",
+        "brand": "SoundWave",
+        "original_price": 129,
+        "current_price": 89,
+        "rating": {
+            "stars": 4.4,
+            "count": 2000
+        }
+    },
+    {
+        "id": "G006",
+        "image": "Gadgets/6.jpg",
+        "image2": "Gadgets/6_2.png",
+        "image3": "Gadgets/6_3.png",
+        "image4": "Gadgets/6_4.png",
+        "name": "Gaming Laptop Pro",
+        "brand": "GameTech",
+        "original_price": 1599,
+        "current_price": 1299,
+        "rating": {
+            "stars": 4.8,
+            "count": 800
+        }
+    },
+    {
+        "id": "G007",
+        "image": "Gadgets/7.jpg",
+        "image2": "Gadgets/7_2.png",
+        "image3": "Gadgets/7_3.png",
+        "image4": "Gadgets/7_4.png",
+        "name": "Wireless Charging Pad",
+        "brand": "ChargeIt",
+        "original_price": 49,
+        "current_price": 29,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "G008",
+        "image": "Gadgets/8.jpg",
+        "image2": "Gadgets/8_2.png",
+        "image3": "Gadgets/8_3.png",
+        "image4": "Gadgets/8_4.png",
+        "name": "Smart Home Assistant",
+        "brand": "HomeGenie",
+        "original_price": 199,
+        "current_price": 149,
+        "rating": {
+            "stars": 4.6,
+            "count": 1100
+        }
+    },
+    {
+        "id": "G009",
+        "image": "Gadgets/9.jpg",
+        "image2": "Gadgets/9_2.png",
+        "image3": "Gadgets/9_3.png",
+        "image4": "Gadgets/9_4.png",
+        "name": "Action Camera 4K",
+        "brand": "AquaCam",
+        "original_price": 349,
+        "current_price": 249,
+        "rating": {
+            "stars": 4.7,
+            "count": 1000
+        }
+    },
+    {
+        "id": "G010",
+        "image": "Gadgets/10.jpg",
+        "image2": "Gadgets/10_2.png",
+        "image3": "Gadgets/10_3.png",
+        "image4": "Gadgets/10_4.png",
+        "name": "Digital Camera Pro",
+        "brand": "PhotoElite",
+        "original_price": 799,
+        "current_price": 649,
+        "rating": {
+            "stars": 4.8,
+            "count": 900
+        }
+    },
+    {
+        "id": "G011",
+        "image": "Gadgets/11.jpg",
+        "image2": "Gadgets/11_2.png",
+        "image3": "Gadgets/11_3.png",
+        "image4": "Gadgets/11_4.png",
+        "name": "Portable SSD 1TB",
+        "brand": "StoragePlus",
+        "original_price": 159,
+        "current_price": 129,
+        "rating": {
+            "stars": 4.6,
+            "count": 1500
+        }
+    },
+    {
+        "id": "G012",
+        "image": "Gadgets/12.jpg",
+        "image2": "Gadgets/12_2.png",
+        "image3": "Gadgets/12_3.png",
+        "image4": "Gadgets/12_4.png",
+        "name": "Drone X4",
+        "brand": "FlyHigh",
+        "original_price": 499,
+        "current_price": 399,
+        "rating": {
+            "stars": 4.7,
+            "count": 700
+        }
+    }
+]
